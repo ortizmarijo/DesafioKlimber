@@ -61,7 +61,7 @@ mvn archetype:generate                                  \
 ***
 **Repositorio**
 ```
-$ git clone https://github.com/ortizmarijo/DesafioKlimber.git
+$ git clone https://github.com/ortizmarijo/desafioKlimber.git
 ```
 **Maven**
 ```
